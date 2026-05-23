@@ -6,6 +6,7 @@
 - 4-tool comparison matrix from Lab 1A: see screenshot below
 # AI-mentor-portfolio---Ch-seeta-mahalakshmi
 Day-5_HF_Pulls - Timing comparison
+
 Local time: 12.54s
 [POSITIVE 1.00] I really enjoyed working on the team and shipped 3 features.
 [NEGATIVE 1.00] I was the only one writing code; everyone else was slow.
