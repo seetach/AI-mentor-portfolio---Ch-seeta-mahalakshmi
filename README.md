@@ -27,6 +27,28 @@ Local time: 12.54s
 - JSON schema improves reliability.
 - LLMs can hallucinate on bad input.
 - Structured extraction is better than plain prompting.
+
+  # Day 6 — Capstone Sprint 1: PlacementDataProcessor
+
+## Engineer Answer
+
+### 1. Problem
+Job descriptions are messy text and difficult to filter manually.
+
+### 2. Architecture
+JD URL → BeautifulSoup scraper → structured schema → JSONL dataset.
+
+### 3. Trade-offs
+- Scraping may fail
+- APIs may rate-limit
+- Structured JSON improves reliability
+
+### 4. Scale
+- Small scale works on free APIs
+- Large scale requires paid APIs or local models
+
+### 5. Interview Answer
+I built a structured-output pipeline that converts job descriptions into clean JSON using schema-first design.
   
 ## Day 9 Lab 9A — Hello LangGraph
 
