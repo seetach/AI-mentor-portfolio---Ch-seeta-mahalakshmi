@@ -14,6 +14,19 @@ Local time: 12.54s
 [NEGATIVE 1.00] I had to redo most of my teammate's work because it was wron
 [POSITIVE 1.00] My internship was great — would recommend it to anyone.
   Local: min 0.90s | avg 1.30s
+
+  # Day 6 Lab 6A — Errors Handled
+
+1. Empty input validation
+2. Schema validation errors
+3. Hallucinated resume generation
+
+## Learnings
+
+- Pydantic validates structured output.
+- JSON schema improves reliability.
+- LLMs can hallucinate on bad input.
+- Structured extraction is better than plain prompting.
   
 ## Day 9 Lab 9A — Hello LangGraph
 
