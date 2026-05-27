@@ -15,3 +15,15 @@ Local time: 12.54s
 [POSITIVE 1.00] My internship was great — would recommend it to anyone.
   Local: min 0.90s | avg 1.30s
   
+## Day 9 Lab 9A — Hello LangGraph
+
+### Features
+- Gemini-powered LangGraph agent
+- DuckDuckGo web search tool
+- Full ReAct trace
+- Failure recovery testing
+
+### Reflection
+1. The trace explains how the agent thinks.
+2. Tool docstrings guide tool selection.
+3. Failure handling is important in agents.
