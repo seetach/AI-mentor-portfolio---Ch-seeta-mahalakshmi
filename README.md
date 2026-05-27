@@ -27,3 +27,25 @@ Local time: 12.54s
 1. The trace explains how the agent thinks.
 2. Tool docstrings guide tool selection.
 3. Failure handling is important in agents.
+
+# Day 9 Sprint 4 — Career Agent
+
+## Tools Used
+
+1. jd_fetcher
+2. skills_gap
+3. answer_scorer
+
+## Features
+
+- Job description fetching
+- Skill-gap analysis
+- Interview answer scoring
+- LangGraph ReAct workflow
+- Failure recovery handling
+
+## Reflection
+
+1. Tool docstrings guide agent decisions.
+2. Agents use tools dynamically based on user input.
+3. Failure handling is critical in production AI systems.
